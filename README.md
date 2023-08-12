@@ -1,6 +1,3 @@
-# Generative-AI-Study-Material-Hub
-Explore the Generative AI Study Material Hub: Your go-to for open-source resources, guides, and content on generative AI. Perfect for novices grasping fundamentals or experts chasing latest trends. Start your journey now!
-
 # Generative AI Study Material Hub
 
 Welcome to the Generative AI Study Material Hub! This repository is a comprehensive collection of open-source study materials, resources, and content related to Generative Artificial Intelligence (AI). Whether you're a beginner looking to dive into the fascinating world of generative AI or an experienced practitioner seeking advanced materials, this repository aims to provide a one-stop destination for all your learning needs.
